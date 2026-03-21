@@ -1,2 +1,22 @@
-# SQL_Practice_and_problem_solving
-This repository is dedicated to strengthening SQL skills through consistent practice and real-world problem solving. It includes a wide range of SQL queries solved across platforms like HackerRank and LeetCode, covering topics from basic to advanced levels. The main goal of this repository is not only to improve SQL knowledge but also to enhance problem-solving ability, increase query-writing efficiency, and build confidence in handling complex database scenarios. By practicing diverse problems, this collection helps in developing speed, accuracy, and a deeper understanding of SQL concepts.
+# SQL Practice and Problem Solving
+
+This repository is dedicated to strengthening SQL skills through consistent practice and real-world problem solving. It includes a wide range of SQL queries solved across platforms like HackerRank and LeetCode, covering topics from basic to advanced levels.
+
+## 🚀 Goals
+- Improve SQL knowledge
+- Enhance problem-solving skills
+- Increase query efficiency
+- Build confidence in handling complex database problems
+
+## 📅 Daily Practice
+I solve SQL problems daily and document:
+- Problem statement
+- Approach
+- Solution
+
+## 📌 Platforms
+- HackerRank
+- LeetCode
+
+## 💡 Outcome
+By practicing diverse problems, this repository helps in developing speed, accuracy, and a deeper understanding of SQL concepts.
