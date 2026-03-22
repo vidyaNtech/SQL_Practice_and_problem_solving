@@ -1,0 +1,152 @@
+Problems:-
+  1)https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true
+  2)https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true
+  3)https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true
+  4)https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true
+  5)https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true
+  6)https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true
+  7)https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true
+  8)https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true
+  9)https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true
+  10)https://www.hackerrank.com/challenges/weather-observation-station-4/problem?isFullScreen=true
+
+
+
+
+📁 1) Weather Observation Station 5
+      -- Problem: Weather Observation Station 5
+      
+      -- Approach:
+      -- 1. Find city with shortest and longest name
+      -- 2. Use LENGTH() to calculate length
+      -- 3. Order by length and pick first row
+
+        (SELECT CITY, LENGTH(CITY)
+         FROM STATION
+         ORDER BY LENGTH(CITY), CITY
+         LIMIT 1)
+        
+        UNION
+        
+        (SELECT CITY, LENGTH(CITY)
+         FROM STATION
+         ORDER BY LENGTH(CITY) DESC, CITY
+         LIMIT 1);
+        
+        -- Key Learning:
+        -- Learned LENGTH(), ORDER BY, LIMIT and UNION
+📁 2) Revising the Select Query
+            -- Problem: Revising the Select Query
+            
+            -- Approach:
+            -- 1. Select all columns
+            -- 2. Filter only USA cities
+            -- 3. Population > 100000
+            
+            SELECT *
+            FROM CITY
+            WHERE COUNTRYCODE = 'USA'
+            AND POPULATION > 100000;
+            
+            -- Key Learning:
+            -- WHERE with AND condition
+📁 3) Revising the Select Query 2
+          -- Problem: Revising the Select Query II
+          
+          -- Approach:
+          -- 1. Select only NAME column
+          -- 2. Apply same conditions
+          
+          SELECT NAME
+          FROM CITY
+          WHERE COUNTRYCODE = 'USA'
+          AND POPULATION > 120000;
+          
+          -- Key Learning:
+          -- Selecting specific columns
+📁 4) Select All
+        -- Problem: Select All
+        
+        -- Approach:
+        -- 1. Retrieve all columns from CITY table
+        
+        SELECT *
+        FROM CITY;
+        
+        -- Key Learning:
+        -- Basic SELECT *
+📁 5) Select By ID
+        -- Problem: Select By ID
+        
+        -- Approach:
+        -- 1. Filter row using ID
+        
+        SELECT *
+        FROM CITY
+        WHERE ID = 1661;
+        
+        -- Key Learning:
+        -- Filtering using primary key
+📁 6) Japanese Cities Attributes
+          -- Problem: Japanese Cities Attributes
+          
+          -- Approach:
+          -- 1. Select all columns
+          -- 2. Filter COUNTRYCODE = 'JPN'
+          
+          SELECT *
+          FROM CITY
+          WHERE COUNTRYCODE = 'JPN';
+          
+          -- Key Learning:
+          -- Filtering based on country
+📁 7) Japanese Cities Name
+            -- Problem: Japanese Cities Name
+            
+            -- Approach:
+            -- 1. Select only NAME
+            -- 2. Filter COUNTRYCODE = 'JPN'
+            
+            SELECT NAME
+            FROM CITY
+            WHERE COUNTRYCODE = 'JPN';
+            
+            -- Key Learning:
+            -- Selecting specific column with condition
+📁 8) Weather Observation Station 1
+            -- Problem: Weather Observation Station 1
+            
+            -- Approach:
+            -- 1. Select CITY and STATE from STATION
+            
+            SELECT CITY, STATE
+            FROM STATION;
+            
+            -- Key Learning:
+            -- Selecting multiple columns
+📁 9) Weather Observation Station 3
+            -- Problem: Weather Observation Station 3
+            
+            -- Approach:
+            -- 1. Select DISTINCT CITY
+            -- 2. Filter even ID using MOD
+            
+            SELECT DISTINCT CITY
+            FROM STATION
+            WHERE MOD(ID, 2) = 0;
+            
+            -- Key Learning:
+            -- DISTINCT + MOD for even numbers
+📁 10) Weather Observation Station 4
+            -- Problem: Weather Observation Station 4
+            
+            -- Approach:
+            -- 1. Count total CITY
+            -- 2. Count distinct CITY
+            -- 3. Subtract to get duplicates
+            
+            SELECT COUNT(CITY) - COUNT(DISTINCT CITY)
+            FROM STATION;
+            
+            -- Key Learning:
+            -- COUNT vs DISTINCT
