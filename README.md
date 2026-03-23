@@ -20,3 +20,44 @@ I solve SQL problems daily and document:
 
 ## 💡 Outcome
 By practicing diverse problems, this repository helps in developing speed, accuracy, and a deeper understanding of SQL concepts.
+
+---
+
+## 📅 Progress
+
+### 🔹 Day 01 - Basic SQL Queries
+- SELECT *
+- WHERE conditions
+- DISTINCT
+- COUNT
+- Basic filtering
+
+📌 Total Problems Solved: 10
+
+---
+
+### 🔹 Day 02 - Pattern Matching
+- LIKE operator
+- NOT LIKE operator
+- Filtering using patterns
+- Combining conditions (AND / OR)
+
+📌 Total Problems Solved: 5
+
+---
+
+## 📁 Folder Structure
+
+SQL_Practice_and_problem_solving/
+
+├── day_01/ → Basic SQL queries  
+├── day_02/ → Pattern matching problems  
+
+---
+
+## 🎯 Goal
+
+- Solve SQL problems daily  
+- Focus on concepts over quantity  
+- Build strong problem-solving skills  
+- Stay consistent  
