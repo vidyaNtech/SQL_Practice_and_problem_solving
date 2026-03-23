@@ -1,4 +1,4 @@
--- Problem: Weather Observation Station 7
+--Problem: Weather Observation Station 7
 -- Link: https://www.hackerrank.com/challenges/weather-observation-station-7/problem
 
 -- Approach:
