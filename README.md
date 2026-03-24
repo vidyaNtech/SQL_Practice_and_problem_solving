@@ -45,6 +45,14 @@ By practicing diverse problems, this repository helps in developing speed, accur
 📌 Total Problems Solved: 5
 
 ---
+### 🔹 Day 03 - Conditional Logic & Sorting
+- CASE statements
+- Subqueries
+- ORDER BY with strings
+- Aggregations (MAX, COUNT)
+- String functions
+
+📌 Total Problems Solved: 7
 
 ## 📁 Folder Structure
 
@@ -52,7 +60,7 @@ SQL_Practice_and_problem_solving/
 
 ├── day_01/ → Basic SQL queries  
 ├── day_02/ → Pattern matching problems  
-
+├── day_03/ → onditional Logic & Sorting problems 
 ---
 
 ## 🎯 Goal
