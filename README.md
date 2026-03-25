@@ -54,13 +54,23 @@ By practicing diverse problems, this repository helps in developing speed, accur
 
 📌 Total Problems Solved: 7
 
+### 🔹 Day 04 - Aggregation Functions
+- MAX and MIN
+- SUM
+- AVG
+- ROUND function
+- Aggregations with conditions
+
+📌 Total Problems Solved: 5
+
 ## 📁 Folder Structure
 
 SQL_Practice_and_problem_solving/
 
 ├── day_01/ → Basic SQL queries  
 ├── day_02/ → Pattern matching problems  
-├── day_03/ → onditional Logic & Sorting problems 
+├── day_03/ → onditional Logic & Sorting problems
+├── day_04/ → Aggregation Functions
 ---
 
 ## 🎯 Goal
