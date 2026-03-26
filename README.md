@@ -63,6 +63,13 @@ By practicing diverse problems, this repository helps in developing speed, accur
 
 📌 Total Problems Solved: 5
 
+### 🔹 Day 05 - Consistency Day 💪
+- SUM with multiple columns
+- ROUND for precision
+
+📌 Total Problems Solved: 1  
+📌 Note: Stayed consistent even during health issues + academics
+
 ## 📁 Folder Structure
 
 SQL_Practice_and_problem_solving/
@@ -71,6 +78,7 @@ SQL_Practice_and_problem_solving/
 ├── day_02/ → Pattern matching problems  
 ├── day_03/ → onditional Logic & Sorting problems
 ├── day_04/ → Aggregation Functions
+├── day_05/ → sum and ROUND for precision
 ---
 
 ## 🎯 Goal
