@@ -74,11 +74,11 @@ By practicing diverse problems, this repository helps in developing speed, accur
 
 SQL_Practice_and_problem_solving/
 
-├── day_01/ → Basic SQL queries  
-├── day_02/ → Pattern matching problems  
-├── day_03/ → onditional Logic & Sorting problems
-├── day_04/ → Aggregation Functions
-├── day_05/ → sum and ROUND for precision
+├── day_01/ → Basic SQL queries                                                                   
+├── day_02/ → Pattern matching problems                                                          
+├── day_03/ → onditional Logic & Sorting problems                                                                                         
+├── day_04/ → Aggregation Functions                                                                                                                           
+├── day_05/ → sum and ROUND for precision                                                                                                    
 ---
 
 ## 🎯 Goal
