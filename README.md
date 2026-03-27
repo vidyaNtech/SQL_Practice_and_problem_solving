@@ -70,6 +70,12 @@ By practicing diverse problems, this repository helps in developing speed, accur
 📌 Total Problems Solved: 1  
 📌 Note: Stayed consistent even during health issues + academics
 
+### 🔹 Day 06 - Advanced Aggregation
+- SUM with range conditions
+- Precision handling (ROUND with 4 decimals)
+
+📌 Total Problems Solved: 1
+
 ## 📁 Folder Structure
 
 SQL_Practice_and_problem_solving/
@@ -78,7 +84,8 @@ SQL_Practice_and_problem_solving/
 ├── day_02/ → Pattern matching problems                                                          
 ├── day_03/ → onditional Logic & Sorting problems                                                                                         
 ├── day_04/ → Aggregation Functions                                                                                                                           
-├── day_05/ → sum and ROUND for precision                                                                                                    
+├── day_05/ → sum and ROUND for precision                                                                                                         
+├── day_06/ → sum,COUNT and Advanced Aggregation                                                                                                                                                                    
 ---
 
 ## 🎯 Goal
