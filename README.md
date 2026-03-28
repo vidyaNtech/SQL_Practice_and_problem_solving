@@ -74,6 +74,11 @@ By practicing diverse problems, this repository helps in developing speed, accur
 - SUM with range conditions
 - Precision handling (ROUND with 4 decimals)
 
+📌 Total Problems Solved: 1 
+### 🔹 Day 07 - Aggregation + Formatting
+- MAX with conditions
+- Precision handling using DECIMAL
+
 📌 Total Problems Solved: 1
 
 ## 📁 Folder Structure
@@ -85,7 +90,8 @@ SQL_Practice_and_problem_solving/
 ├── day_03/ → onditional Logic & Sorting problems                                                                                         
 ├── day_04/ → Aggregation Functions                                                                                                                           
 ├── day_05/ → sum and ROUND for precision                                                                                                         
-├── day_06/ → sum,COUNT and Advanced Aggregation                                                                                                                                                                    
+├── day_06/ → sum,COUNT and Advanced Aggregation                                         
+├── day_07/ → MAX and Precision handling using DECIMAL                                                                                     
 ---
 
 ## 🎯 Goal
