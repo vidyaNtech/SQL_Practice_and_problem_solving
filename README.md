@@ -79,6 +79,13 @@ By practicing diverse problems, this repository helps in developing speed, accur
 - MAX with conditions
 - Precision handling using DECIMAL
 
+📌 Total Problems Solved: 1 
+
+### 🔹 Day 08 - Subqueries + MIN
+- MIN with conditions
+- Subquery to fetch corresponding values
+- Precision formatting
+
 📌 Total Problems Solved: 1
 
 ## 📁 Folder Structure
@@ -91,7 +98,8 @@ SQL_Practice_and_problem_solving/
 ├── day_04/ → Aggregation Functions                                                                                                                           
 ├── day_05/ → sum and ROUND for precision                                                                                                         
 ├── day_06/ → sum,COUNT and Advanced Aggregation                                         
-├── day_07/ → MAX and Precision handling using DECIMAL                                                                                     
+├── day_07/ → MAX and Precision handling using DECIMAL                                                                
+├── day_08/ → Subquery to fetch corresponding values
 ---
 
 ## 🎯 Goal
