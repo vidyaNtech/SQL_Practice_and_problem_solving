@@ -88,6 +88,13 @@ By practicing diverse problems, this repository helps in developing speed, accur
 
 📌 Total Problems Solved: 1
 
+### 🔹 Day 09 - Introduction to JOINs
+- INNER JOIN between tables
+- Matching keys (Foreign Key concept)
+- Filtering joined data
+
+📌 Total Problems Solved: 1
+
 ## 📁 Folder Structure
 
 SQL_Practice_and_problem_solving/
@@ -100,6 +107,7 @@ SQL_Practice_and_problem_solving/
 ├── day_06/ → sum,COUNT and Advanced Aggregation                                         
 ├── day_07/ → MAX and Precision handling using DECIMAL                                                                
 ├── day_08/ → Subquery to fetch corresponding values
+├── day_09/ → Introduction to JOINs                                                                  
 ---
 
 ## 🎯 Goal
