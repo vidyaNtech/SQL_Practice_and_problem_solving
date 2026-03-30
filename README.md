@@ -106,8 +106,8 @@ SQL_Practice_and_problem_solving/
 ├── day_05/ → sum and ROUND for precision                                                                                                         
 ├── day_06/ → sum,COUNT and Advanced Aggregation                                         
 ├── day_07/ → MAX and Precision handling using DECIMAL                                                                
-├── day_08/ → Subquery to fetch corresponding values
-├── day_09/ → Introduction to JOINs                                                                  
+├── day_08/ → Subquery to fetch corresponding values                                                                                                                                                               
+├── day_09/ → Introduction to JOINs                                                                                                                                                                                                                                       
 ---
 
 ## 🎯 Goal
