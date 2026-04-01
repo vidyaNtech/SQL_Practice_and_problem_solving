@@ -100,6 +100,13 @@ By practicing diverse problems, this repository helps in developing speed, accur
 - Subquery mapping
 - Precision handling
 
+📌 Total Problems Solved: 1 
+
+### 🔹 Day 11 - JOIN Reinforcement
+- INNER JOIN between tables
+- Foreign key mapping (CountryCode → Code)
+- Filtering joined data
+
 📌 Total Problems Solved: 1
 
 ## 📁 Folder Structure
@@ -114,7 +121,7 @@ SQL_Practice_and_problem_solving/
 ├── day_06/ → sum,COUNT and Advanced Aggregation                                         
 ├── day_07/ → MAX and Precision handling using DECIMAL                                                                
 ├── day_08/ → Subquery to fetch corresponding values                                                                                                                                                               
-├── day_09/ → Introduction to JOINs                                                                                                                                                                                ├── day_10/ → Subqueries + MIN (Practice Reinforcement)                                                                                                                                                                                                                                                                                                          
+├── day_09/ → Introduction to JOINs                                                                                                                                                                                ├── day_10/ → Subqueries + MIN (Practice Reinforcement)                                                                                                                                                            ├── day_11/ → JOIN Reinforcement                                                                                                                                                                                                                                    
 ---
 
 ## 🎯 Goal
