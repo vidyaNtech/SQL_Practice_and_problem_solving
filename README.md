@@ -109,6 +109,14 @@ By practicing diverse problems, this repository helps in developing speed, accur
 
 📌 Total Problems Solved: 1
 
+### 🔹 Day 12 - Aggregation Practice (MIN)
+- MIN with conditions
+- Rounding results
+- Reinforcing previous concepts
+
+📌 Total Problems Solved: 1
+📌 Note: Focused on maintaining consistency and revisiting concepts
+
 ## 📁 Folder Structure
 
 SQL_Practice_and_problem_solving/
@@ -121,7 +129,7 @@ SQL_Practice_and_problem_solving/
 ├── day_06/ → sum,COUNT and Advanced Aggregation                                         
 ├── day_07/ → MAX and Precision handling using DECIMAL                                                                
 ├── day_08/ → Subquery to fetch corresponding values                                                                                                                                                               
-├── day_09/ → Introduction to JOINs                                                                                                                                                                                ├── day_10/ → Subqueries + MIN (Practice Reinforcement)                                                                                                                                                            ├── day_11/ → JOIN Reinforcement                                                                                                                                                                                                                                    
+├── day_09/ → Introduction to JOINs                                                                                                                                                                                ├── day_10/ → Subqueries + MIN (Practice Reinforcement)                                                                                                                                                            ├── day_11/ → JOIN Reinforcement                                                                                                                                                                                   ├── day_12/ → Aggregation Practice (MIN)                                                                                                                                                                                                                            
 ---
 
 ## 🎯 Goal
