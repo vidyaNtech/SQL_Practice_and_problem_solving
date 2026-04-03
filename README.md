@@ -115,8 +115,16 @@ By practicing diverse problems, this repository helps in developing speed, accur
 - Reinforcing previous concepts
 
 📌 Total Problems Solved: 1
-📌 Note: Focused on maintaining consistency and revisiting concepts
+📌 Note: Focused on maintaining consistency and revisiting concepts 
 
+
+### 🔹 Day 13 - Subquery + Aggregation
+- MAX with expressions
+- Subquery filtering
+- Counting based on condition
+
+📌 Total Problems Solved: 1
+📌 Status: Practicing consistency
 ## 📁 Folder Structure
 
 SQL_Practice_and_problem_solving/
@@ -129,7 +137,7 @@ SQL_Practice_and_problem_solving/
 ├── day_06/ → sum,COUNT and Advanced Aggregation                                         
 ├── day_07/ → MAX and Precision handling using DECIMAL                                                                
 ├── day_08/ → Subquery to fetch corresponding values                                                                                                                                                               
-├── day_09/ → Introduction to JOINs                                                                                                                                                                                ├── day_10/ → Subqueries + MIN (Practice Reinforcement)                                                                                                                                                            ├── day_11/ → JOIN Reinforcement                                                                                                                                                                                   ├── day_12/ → Aggregation Practice (MIN)                                                                                                                                                                                                                            
+├── day_09/ → Introduction to JOINs                                                                                                                                                                                ├── day_10/ → Subqueries + MIN (Practice Reinforcement)                                                                                                                                                            ├── day_11/ → JOIN Reinforcement                                                                                                                                                                                   ├── day_12/ → Aggregation Practice (MIN)                                                                                                                                                                           ├── day_13/ → Subquery + Aggregation                                                                                                                                                                                             
 ---
 
 ## 🎯 Goal
