@@ -146,7 +146,7 @@ SQL_Practice_and_problem_solving/
 
 ## 🎯 Goal
 
-- Solve SQL problems daily  
+- Solve SQL problems daily
 - Focus on concepts over quantity  
 - Build strong problem-solving skills  
 - Stay consistent  
