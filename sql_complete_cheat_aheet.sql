@@ -11,7 +11,7 @@
 --Insert, update, delete, and retrieve data.
 --Manage user permissions and access.
 --Create a Database in SQL
---Explore this section to get hands on all the cheat sheet that help you in order to create a database in SQL.
+--Explore this section to get hands on all the cheat sheet that help you in order to create a database in SQL..
 
 --1. CREATE DATABASE
 CREATE DATABASE company;
@@ -40,7 +40,7 @@ CREATE TABLE employees (
   department VARCHAR(50),
   salary DECIMAL(10, 2)
 );
---This command creates a table named "employees" with columns for employee ID, first name, last name, department, and salary. The employee_id column is set as the primary key.
+--This command creates a table named "employees" with columns for employee ID, first name, last name, department, and salary. The employee_id column is set as the primary key..
 
 --6. INSERT INTO
 INSERT INTO employees (employee_id, first_name, last_name, department, salary)
