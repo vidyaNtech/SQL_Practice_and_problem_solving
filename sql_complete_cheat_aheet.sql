@@ -100,6 +100,7 @@ SELECT
 FROM employees;
 --This query will categorize employees based on their salary into 'High', 'Medium', or 'Low'.
 
+
 --Updating/Manipulating Data in SQL
 --Get a cheat sheet on how to update or manipulate data in SQL by exploring this section.
 
@@ -230,6 +231,7 @@ FROM employees
 GROUP BY department
 HAVING AVG(salary) > 55000;
 --This query will calculate the average salary for each department and return only those departments where the average salary is greater than 55000.
+
 
 --Constraints in SQL
 --Constraints in SQL act as data quality guardrails, enforcing rules to ensure accuracy, consistency, and integrity within your database tables.
